@@ -12,7 +12,7 @@ use Webkul\Shop\Http\Middleware\Currency;
 use Webkul\Shop\Http\Middleware\Locale;
 use Webkul\Shop\Http\Middleware\Theme;
 
-class ShopServiceProvider extends ServiceProvider
+class StoreServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap services.
